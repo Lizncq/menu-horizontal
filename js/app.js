@@ -1,0 +1,2 @@
+/*chanchan*/
+alert("Welcome")
